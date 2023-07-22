@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @francisdanc
-- 👀 I’m interested in Software and Game development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on any projects i'd like help on
-- 📫 How to reach me through this account
-
-<!---
-francisdanc/francisdanc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello there! I'm a Computer Science student from England currently in my second year at university. So far I am learning Java, C# and Python. I am interested in developing all kinds of software from machine learning to programming games. When programming games I am intersted in procedural generation and making a simulated world that feels alive.
+This GitHub serves as a portfolio for projects i've made in my spare time. 
